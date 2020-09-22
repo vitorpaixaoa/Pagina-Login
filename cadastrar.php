@@ -37,19 +37,26 @@ if (isset($_POST['nome']))
            {
                if($senha == $confirmarSenha){
                    if ($u->cadastrar($nome,$telefone,$email,$senha)){
-                        echo "Cadastrado com sucesso! acesse para entrar!";
+                       ?>
+                        <div id="msg-sucesso">
+                            "Cadastrado com sucesso! acesse para entrar!";
+                        </div>
+                        <?php
                    }else{
-                       echo "Email já cadastrado";
-                   }
-               } else {
-                   echo "Senha e confirmar senha não correspondem";
+                       ?>
+                       <div class="msg-erro"> Email já cadastrado </div>
+                   <?php }
+               } else { ?>
+                   <div class="msg-erro"> As senhas não conferem </div>
+                   <?php
                }
 
            }else {
                echo "Erro: ".$u->msgErro;
            }
-        } else {
-            echo "Preencha todos os campos!";
+        } else { ?>
+            <div class="msg-erro"> Preencha todos os campos </div>
+            <?php
         }
     }
 

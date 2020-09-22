@@ -44,7 +44,7 @@ class Usuario {
         global $pdo;
         //verificar se o email e a senha estao cadastrados, se sim
         $sql = $pdo->prepare("SELECT id_usuarios FROM usuarios WHERE email = :e AND senha = :s");
-        $sql->bindValue(":e" . $email);
+        $sql->bindValue(":e" ,$email);
         $sql->bindValue(":s", md5($senha));
         $sql->execute();
         if ($sql->rowCount() > 0)

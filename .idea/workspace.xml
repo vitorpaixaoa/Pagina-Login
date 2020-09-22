@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f3b0757-56ab-4447-9a36-ca8f1be5381c" name="Default Changelist" comment="" />
+    <list default="true" id="1f3b0757-56ab-4447-9a36-ca8f1be5381c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/areaPrivada.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastrar.php" beforeDir="false" afterPath="$PROJECT_DIR$/cadastrar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +17,14 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1hpA3jZsEQ9pawnsGnkQYcZ3cHR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600697463678</updated>
       <workItem from="1600697464972" duration="3162000" />
-      <workItem from="1600714111382" duration="8138000" />
+      <workItem from="1600714111382" duration="11258000" />
     </task>
     <servers />
   </component>
@@ -87,19 +100,27 @@
     </state>
     <state x="460" y="121" key="FileChooserDialogImpl/-1280.0.1280.994/0.0.1360.738@0.0.1360.738" timestamp="1600733559573" />
     <state x="460" y="119" key="FileChooserDialogImpl/1360.68.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1600697579079" />
-    <state x="550" y="267" key="Github.ShareDialog" timestamp="1600733487251">
+    <state x="550" y="267" key="Github.ShareDialog" timestamp="1600733580485">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="550" y="267" key="Github.ShareDialog/-1280.0.1280.994/0.0.1360.738@0.0.1360.738" timestamp="1600733487251" />
-    <state x="514" y="291" key="NewPhpFileDialog" timestamp="1600727162701">
+    <state x="550" y="267" key="Github.ShareDialog/-1280.0.1280.994/0.0.1360.738@0.0.1360.738" timestamp="1600733580485" />
+    <state x="522" y="74" key="Github.UntrackedFilesDialog" timestamp="1600733626593">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="514" y="291" key="NewPhpFileDialog/-1280.0.1280.994/0.0.1360.738@0.0.1360.738" timestamp="1600727162701" />
+    <state x="522" y="74" key="Github.UntrackedFilesDialog/-1280.0.1280.994/0.0.1360.738@0.0.1360.738" timestamp="1600733626593" />
+    <state x="514" y="291" key="NewPhpFileDialog" timestamp="1600736257777">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="514" y="291" key="NewPhpFileDialog/-1280.0.1280.994/0.0.1360.738@0.0.1360.738" timestamp="1600736257777" />
     <state x="514" y="287" key="NewPhpFileDialog/1360.68.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1600701249131" />
     <state x="181" y="14" key="SettingsEditor" timestamp="1600733564666">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="181" y="14" key="SettingsEditor/-1280.0.1280.994/0.0.1360.738@0.0.1360.738" timestamp="1600733564666" />
+    <state x="497" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600734690647">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="497" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1280.0.1280.994/0.0.1360.738@0.0.1360.738" timestamp="1600734690647" />
     <state x="343" y="49" key="search.everywhere.popup" timestamp="1600701237328">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
